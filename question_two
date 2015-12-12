@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words"
+The upstream remote is an origin repository that a local repository may have been cloned from, in order to add changes and developments to the original repository. Setting an upstream remote allows you to 'fetch' any new commits from the origin repository and merge them into your cloned repository.
