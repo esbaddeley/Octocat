@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone copies a git repository so that it can be added to. It takes the url of the repository to be cloned as an argument, along with a name for the clone f you don't want it to have the same name as the original repository. Git clone can be used to make a copy of a local repository, or used to clone a repository from Github
